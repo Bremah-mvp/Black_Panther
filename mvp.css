@@ -1,0 +1,110 @@
+
+body {
+  
+   background-color: grey;
+    color:black;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blanchedalmond;
+}
+
+.black-panther {
+    
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: black;
+    font-weight: bolder;
+}
+
+.introduction-section,
+ .h1 {
+
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    color: red;
+}
+
+.melanism-section {
+    text-align: center;
+    font-size: medium;
+    font-weight: 600;
+    background-color: black;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    align-self: stretch;
+    border-image: auto;
+    image-orientation: from-image;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.introduction-section{
+    text-align: center;
+    font: large;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30;
+    padding-right: 10;
+}
+
+.family-section {
+    
+    text-align: center;
+    color: blue;
+    font-style: italic;
+    font-weight: bolder;
+    background-color: lightblue;
+   
+    
+}
+
+.ordered-list {
+    background-color: bisque;
+    background-size: 20em;
+    color: darkslategrey;
+
+}
+
+.facts-section {
+
+    padding-bottom: 0.01cm;
+    padding-top: 0.01cm;
+    text-align: center;
+   font-size: medium;
+   font-weight: bold;
+   color: whitesmoke;
+   background-color: darkgrey;
+   
+
+}
+
+.p {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+    
+}
+
+.habitant-section {
+    
+    margin: 50px 0;
+    padding: 20px 0;
+    text-align: center;
+    background-color: mediumseagreen;
+    font-weight: bolder;
+    font-style: italic;
+    color: black;
+    
+    
+    
+    
+}
+
